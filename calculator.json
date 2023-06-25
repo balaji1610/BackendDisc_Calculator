@@ -1,0 +1,12 @@
+{
+  "calculator": [
+    {
+      "id": "1",
+      "date": "25 June 2023 at 06:17 pm",
+      "orginalPrice": "1000",
+      "percentage": "3",
+      "savings": 30,
+      "finalPrice": 970
+    }
+  ]
+}
